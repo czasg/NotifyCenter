@@ -1,0 +1,3 @@
+pywss>=0.1.14
+requests
+sqlalchemy
